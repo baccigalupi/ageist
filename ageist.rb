@@ -1,3 +1,5 @@
+# looks great. Watch the product specifications, and that your puts-ing matches what is required by the product
+
 age = rand(120)
 
 puts "Your age is #{age}"
